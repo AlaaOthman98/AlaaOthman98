@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I am Alaa Mohamed Ohman
+- 🔭 I’m currently working as Frontend Engineer at [Intouch.com](https://intouch.com/)
 <!--
 **AlaaOthman98/AlaaOthman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
