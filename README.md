@@ -1,6 +1,6 @@
 <div align='center'>
   <h2 text-align="center">Hello everyone 👋</h2>
-  <p>Happy to see you in my profile</p>
+  <p>Excited to see you here in my profile 😀</p>
 
   <p>I am Alaa Mohamed Othman, from Egypt. I am currently working as a Frontend Engineer at 
     <a href="https://intouch.com/">
@@ -27,7 +27,6 @@
     <li></li>
   </ul>-->
 </div>
-
 <!--
 **AlaaOthman98/AlaaOthman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
