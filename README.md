@@ -28,8 +28,6 @@
   </ul>-->
 </div>
 
-
-- 🔭 I’m currently working as Frontend Engineer at 
 <!--
 **AlaaOthman98/AlaaOthman98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
