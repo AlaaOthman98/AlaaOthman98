@@ -6,7 +6,7 @@
     <a href="https://intouch.com/">
       <img src="https://assets.website-files.com/5f998c05f018b4e7326c52a7/5f9edb3f2817be5b85846d8d_logo%20full.svg" alt="intouch logo" width="150"/>
     </a>. My main work now is to develop the ui of <a href="https://adsapp.intouch.com/">
-      <img src="https://ads-portal-dev.intouch.com/assets/img/logo.svg" alt="intouch logo" width="150"/>
+      <img src="https://dev-adsapp.intouch.com/assets/img/logo.svg" alt="intouch ads" width="150"/>
     </a> product which is a product used by advertisers to run their advertising campaigns on our network in-stores.
   </p>
   
